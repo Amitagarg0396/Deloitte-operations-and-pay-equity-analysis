@@ -9,7 +9,8 @@ Which factory had the highest downtime?
 
 Which machine types were responsible for failures?
 
-**2. Methodology**
+**2. Methodology** 
+
 Imported unified JSON dataset into Tableau.
 
 Created calculated field:
